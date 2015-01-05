@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:020909_0000_0FB155F5B5E6E788"/>
-            <pb facs="tcp:020909_0001_0FB155F743C4B4D8"/>
+            <pb facs="unknown:020909_0000_0FB155F5B5E6E788"/>
+            <pb facs="unknown:020909_0001_0FB155F743C4B4D8"/>
             <head>
                <gap reason="illegible: indecipherable" extent="1 letter">
                   <desc>•</desc>
